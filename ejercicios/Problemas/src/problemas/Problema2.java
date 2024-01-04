@@ -27,7 +27,7 @@ public class Problema2 {
             if (num == 2) {
                 obtenerTriangulo();
                 if (num == 3) {
-                    obtenerRectangulo
+                    obtenerRectangulo();
                 }
             }
         }
